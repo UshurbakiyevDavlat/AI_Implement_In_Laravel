@@ -1,6 +1,10 @@
 # AI_Implement_In_Laravel
 Implementation of AI in laravel, originally with OpenAI
 
+## Requirements
+- php ^8.1
+- OpenAI API key with paid plan
+
 ## Installation
 1. Clone this repository
 2. Run `composer install`
